@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d2" />
+  <key attr.name="x" attr.type="double" for="node" id="d1" />
+  <key attr.name="y" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Chicken Wings">
+      <data key="d0">0.263133902293</data>
+      <data key="d1">0.100651634056</data>
+    </node>
+    <node id="Grocery">
+      <data key="d0">0.0935076693531</data>
+      <data key="d1">0.152768272168</data>
+    </node>
+    <node id="Drugstores">
+      <data key="d0">0.0423060596952</data>
+      <data key="d1">0.168531122367</data>
+    </node>
+    <node id="American (New)">
+      <data key="d0">0.29331773845</data>
+      <data key="d1">0.140843016852</data>
+    </node>
+    <node id="Donuts">
+      <data key="d0">0.0491369291552</data>
+      <data key="d1">0.127396597268</data>
+    </node>
+    <node id="Beauty &amp; Spas">
+      <data key="d0">0.0199224425947</data>
+      <data key="d1">0.15475448373</data>
+    </node>
+    <node id="Buffets">
+      <data key="d0">0.353866575023</data>
+      <data key="d1">0.115323756519</data>
+    </node>
+    <node id="Middle Eastern">
+      <data key="d0">0.320097082849</data>
+      <data key="d1">0.0489872229398</data>
+    </node>
+    <node id="Breakfast &amp; Brunch">
+      <data key="d0">0.243720138746</data>
+      <data key="d1">0.128189777599</data>
+    </node>
+    <node id="Indian">
+      <data key="d0">0.289124248416</data>
+      <data key="d1">0.0561561656207</data>
+    </node>
+    <node id="Sandwiches">
+      <data key="d0">0.249576142985</data>
+      <data key="d1">0.127180416262</data>
+    </node>
+    <node id="Fast Food">
+      <data key="d0">0.290076136808</data>
+      <data key="d1">0.12364661924</data>
+    </node>
+    <node id="Korean">
+      <data key="d0">0.378625043821</data>
+      <data key="d1">0.129471827904</data>
+    </node>
+    <node id="Sushi Bars">
+      <data key="d0">0.297667007279</data>
+      <data key="d1">0.085941908227</data>
+    </node>
+    <node id="Barbeque">
+      <data key="d0">0.340601866261</data>
+      <data key="d1">0.0943894295606</data>
+    </node>
+    <node id="Gas &amp; Service Stations">
+      <data key="d0">0.00462109029681</data>
+      <data key="d1">0.188142519152</data>
+    </node>
+    <node id="Italian">
+      <data key="d0">0.287355583276</data>
+      <data key="d1">0.10265646559</data>
+    </node>
+    <node id="Shopping">
+      <data key="d0">0.0546513331527</data>
+      <data key="d1">0.158688662238</data>
+    </node>
+    <node id="Desserts">
+      <data key="d0">0.0922345796193</data>
+      <data key="d1">0.171209851004</data>
+    </node>
+    <node id="Coffee &amp; Tea">
+      <data key="d0">0.181721660422</data>
+      <data key="d1">0.13887495683</data>
+    </node>
+    <node id="Automotive">
+      <data key="d0">0.0198591660958</data>
+      <data key="d1">0.196698473429</data>
+    </node>
+    <node id="Vietnamese">
+      <data key="d0">0.28727777071</data>
+      <data key="d1">0.182975679139</data>
+    </node>
+    <node id="French">
+      <data key="d0">0.298237934572</data>
+      <data key="d1">0.0689091008555</data>
+    </node>
+    <node id="Pubs">
+      <data key="d0">0.264832544692</data>
+      <data key="d1">0.157498809875</data>
+    </node>
+    <node id="Diners">
+      <data key="d0">0.307690426877</data>
+      <data key="d1">0.176287789988</data>
+    </node>
+    <node id="Sports Bars">
+      <data key="d0">0.280972944457</data>
+      <data key="d1">0.15320071608</data>
+    </node>
+    <node id="Juice Bars &amp; Smoothies">
+      <data key="d0">0.0549712774092</data>
+      <data key="d1">0.143410502443</data>
+    </node>
+    <node id="Thai">
+      <data key="d0">0.265152962662</data>
+      <data key="d1">0.0795004768579</data>
+    </node>
+    <node id="Pizza">
+      <data key="d0">0.281093822814</data>
+      <data key="d1">0.112637615278</data>
+    </node>
+    <node id="Seafood">
+      <data key="d0">0.322271636431</data>
+      <data key="d1">0.086477827458</data>
+    </node>
+    <node id="Bakeries">
+      <data key="d0">0.185240805441</data>
+      <data key="d1">0.140805164704</data>
+    </node>
+    <node id="Cosmetics &amp; Beauty Supply">
+      <data key="d0">0.0</data>
+      <data key="d1">0.159522381522</data>
+    </node>
+    <node id="Ethnic Food">
+      <data key="d0">0.081942906771</data>
+      <data key="d1">0.124455215601</data>
+    </node>
+    <node id="Lounges">
+      <data key="d0">0.271852557164</data>
+      <data key="d1">0.173889799339</data>
+    </node>
+    <node id="Salad">
+      <data key="d0">0.264531024329</data>
+      <data key="d1">0.0562061601182</data>
+    </node>
+    <node id="Vegetarian">
+      <data key="d0">0.329749483169</data>
+      <data key="d1">0.180299798312</data>
+    </node>
+    <node id="Cafes">
+      <data key="d0">0.228816452162</data>
+      <data key="d1">0.126536216195</data>
+    </node>
+    <node id="Bars">
+      <data key="d0">0.279860362048</data>
+      <data key="d1">0.139335708728</data>
+    </node>
+    <node id="Greek">
+      <data key="d0">0.347549366311</data>
+      <data key="d1">0.148453464861</data>
+    </node>
+    <node id="Food">
+      <data key="d0">0.136976933182</data>
+      <data key="d1">0.147328745525</data>
+    </node>
+    <node id="Nightlife">
+      <data key="d0">0.27992891966</data>
+      <data key="d1">0.138976273516</data>
+    </node>
+    <node id="Specialty Food">
+      <data key="d0">0.148890872582</data>
+      <data key="d1">0.133100692702</data>
+    </node>
+    <node id="Convenience Stores">
+      <data key="d0">0.0713636371187</data>
+      <data key="d1">0.161011303332</data>
+    </node>
+    <node id="Bagels">
+      <data key="d0">0.0456653894304</data>
+      <data key="d1">0.203109214944</data>
+    </node>
+    <node id="Restaurants">
+      <data key="d0">0.305878864228</data>
+      <data key="d1">0.117727871794</data>
+    </node>
+    <node id="Ice Cream &amp; Frozen Yogurt">
+      <data key="d0">0.0217022376837</data>
+      <data key="d1">0.16912033544</data>
+    </node>
+    <node id="Steakhouses">
+      <data key="d0">0.339186519943</data>
+      <data key="d1">0.112577510969</data>
+    </node>
+    <node id="Mexican">
+      <data key="d0">0.30073130643</data>
+      <data key="d1">0.136346382486</data>
+    </node>
+    <node id="Chinese">
+      <data key="d0">0.274067541156</data>
+      <data key="d1">0.115608144031</data>
+    </node>
+    <node id="Canadian (New)">
+      <data key="d0">1.0</data>
+      <data key="d1">0.0</data>
+    </node>
+    <node id="Burgers">
+      <data key="d0">0.295416621792</data>
+      <data key="d1">0.114303724466</data>
+    </node>
+    <node id="Asian Fusion">
+      <data key="d0">0.252524600938</data>
+      <data key="d1">0.0914563835367</data>
+    </node>
+    <node id="Mediterranean">
+      <data key="d0">0.34210576231</data>
+      <data key="d1">0.134203419447</data>
+    </node>
+    <node id="Japanese">
+      <data key="d0">0.282334346108</data>
+      <data key="d1">0.088243349553</data>
+    </node>
+    <node id="Food Trucks">
+      <data key="d0">0.0235003811104</data>
+      <data key="d1">0.132459231302</data>
+    </node>
+    <node id="American (Traditional)">
+      <data key="d0">0.28023249009</data>
+      <data key="d1">0.12791650807</data>
+    </node>
+    <node id="Delis">
+      <data key="d0">0.234238003533</data>
+      <data key="d1">0.136530900757</data>
+    </node>
+    <node id="Hot Dogs">
+      <data key="d0">0.345192496447</data>
+      <data key="d1">0.067306414205</data>
+    </node>
+    <node id="Beer, Wine &amp; Spirits">
+      <data key="d0">0.0690165776886</data>
+      <data key="d1">0.180056575517</data>
+    </node>
+    <node id="Tex-Mex">
+      <data key="d0">0.33082908188</data>
+      <data key="d1">0.159303582307</data>
+    </node>
+    <node id="Event Planning &amp; Services">
+      <data key="d0">0.377404451881</data>
+      <data key="d1">0.0928934090317</data>
+    </node>
+    <edge source="Chicken Wings" target="Pizza">
+      <data key="d2">190.0</data>
+    </edge>
+    <edge source="Chicken Wings" target="Restaurants">
+      <data key="d2">505.0</data>
+    </edge>
+    <edge source="Grocery" target="Food">
+      <data key="d2">1138.0</data>
+    </edge>
+    <edge source="Grocery" target="Shopping">
+      <data key="d2">272.0</data>
+    </edge>
+    <edge source="Drugstores" target="Food">
+      <data key="d2">315.0</data>
+    </edge>
+    <edge source="Drugstores" target="Convenience Stores">
+      <data key="d2">176.0</data>
+    </edge>
+    <edge source="Drugstores" target="Shopping">
+      <data key="d2">316.0</data>
+    </edge>
+    <edge source="American (New)" target="Bars">
+      <data key="d2">419.0</data>
+    </edge>
+    <edge source="American (New)" target="Nightlife">
+      <data key="d2">440.0</data>
+    </edge>
+    <edge source="American (New)" target="Restaurants">
+      <data key="d2">1476.0</data>
+    </edge>
+    <edge source="Donuts" target="Food">
+      <data key="d2">240.0</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Food">
+      <data key="d2">166.0</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Cosmetics &amp; Beauty Supply">
+      <data key="d2">161.0</data>
+    </edge>
+    <edge source="Beauty &amp; Spas" target="Shopping">
+      <data key="d2">161.0</data>
+    </edge>
+    <edge source="Buffets" target="Restaurants">
+      <data key="d2">413.0</data>
+    </edge>
+    <edge source="Middle Eastern" target="Restaurants">
+      <data key="d2">197.0</data>
+    </edge>
+    <edge source="Breakfast &amp; Brunch" target="American (Traditional)">
+      <data key="d2">174.0</data>
+    </edge>
+    <edge source="Breakfast &amp; Brunch" target="Food">
+      <data key="d2">226.0</data>
+    </edge>
+    <edge source="Breakfast &amp; Brunch" target="Restaurants">
+      <data key="d2">1063.0</data>
+    </edge>
+    <edge source="Indian" target="Restaurants">
+      <data key="d2">282.0</data>
+    </edge>
+    <edge source="Sandwiches" target="Food">
+      <data key="d2">318.0</data>
+    </edge>
+    <edge source="Sandwiches" target="Delis">
+      <data key="d2">294.0</data>
+    </edge>
+    <edge source="Sandwiches" target="Restaurants">
+      <data key="d2">1881.0</data>
+    </edge>
+    <edge source="Sandwiches" target="Pizza">
+      <data key="d2">225.0</data>
+    </edge>
+    <edge source="Sandwiches" target="Fast Food">
+      <data key="d2">413.0</data>
+    </edge>
+    <edge source="Fast Food" target="Burgers">
+      <data key="d2">642.0</data>
+    </edge>
+    <edge source="Fast Food" target="Mexican">
+      <data key="d2">362.0</data>
+    </edge>
+    <edge source="Fast Food" target="Restaurants">
+      <data key="d2">2178.0</data>
+    </edge>
+    <edge source="Korean" target="Restaurants">
+      <data key="d2">182.0</data>
+    </edge>
+    <edge source="Sushi Bars" target="Japanese">
+      <data key="d2">331.0</data>
+    </edge>
+    <edge source="Sushi Bars" target="Restaurants">
+      <data key="d2">648.0</data>
+    </edge>
+    <edge source="Barbeque" target="Restaurants">
+      <data key="d2">466.0</data>
+    </edge>
+    <edge source="Gas &amp; Service Stations" target="Food">
+      <data key="d2">164.0</data>
+    </edge>
+    <edge source="Gas &amp; Service Stations" target="Automotive">
+      <data key="d2">165.0</data>
+    </edge>
+    <edge source="Italian" target="Restaurants">
+      <data key="d2">1427.0</data>
+    </edge>
+    <edge source="Italian" target="Pizza">
+      <data key="d2">587.0</data>
+    </edge>
+    <edge source="Shopping" target="Food">
+      <data key="d2">571.0</data>
+    </edge>
+    <edge source="Shopping" target="Cosmetics &amp; Beauty Supply">
+      <data key="d2">161.0</data>
+    </edge>
+    <edge source="Shopping" target="Convenience Stores">
+      <data key="d2">190.0</data>
+    </edge>
+    <edge source="Desserts" target="Food">
+      <data key="d2">551.0</data>
+    </edge>
+    <edge source="Coffee &amp; Tea" target="Food">
+      <data key="d2">1560.0</data>
+    </edge>
+    <edge source="Coffee &amp; Tea" target="Restaurants">
+      <data key="d2">324.0</data>
+    </edge>
+    <edge source="Automotive" target="Food">
+      <data key="d2">172.0</data>
+    </edge>
+    <edge source="Vietnamese" target="Restaurants">
+      <data key="d2">276.0</data>
+    </edge>
+    <edge source="French" target="Restaurants">
+      <data key="d2">378.0</data>
+    </edge>
+    <edge source="Pubs" target="Bars">
+      <data key="d2">306.0</data>
+    </edge>
+    <edge source="Pubs" target="Nightlife">
+      <data key="d2">306.0</data>
+    </edge>
+    <edge source="Pubs" target="Restaurants">
+      <data key="d2">291.0</data>
+    </edge>
+    <edge source="Diners" target="Restaurants">
+      <data key="d2">293.0</data>
+    </edge>
+    <edge source="Sports Bars" target="American (Traditional)">
+      <data key="d2">279.0</data>
+    </edge>
+    <edge source="Sports Bars" target="Bars">
+      <data key="d2">508.0</data>
+    </edge>
+    <edge source="Sports Bars" target="Nightlife">
+      <data key="d2">508.0</data>
+    </edge>
+    <edge source="Sports Bars" target="Restaurants">
+      <data key="d2">501.0</data>
+    </edge>
+    <edge source="Juice Bars &amp; Smoothies" target="Food">
+      <data key="d2">309.0</data>
+    </edge>
+    <edge source="Thai" target="Restaurants">
+      <data key="d2">422.0</data>
+    </edge>
+    <edge source="Pizza" target="Restaurants">
+      <data key="d2">2121.0</data>
+    </edge>
+    <edge source="Seafood" target="Restaurants">
+      <data key="d2">526.0</data>
+    </edge>
+    <edge source="Bakeries" target="Food">
+      <data key="d2">859.0</data>
+    </edge>
+    <edge source="Bakeries" target="Restaurants">
+      <data key="d2">258.0</data>
+    </edge>
+    <edge source="Cosmetics &amp; Beauty Supply" target="Food">
+      <data key="d2">161.0</data>
+    </edge>
+    <edge source="Ethnic Food" target="Food">
+      <data key="d2">175.0</data>
+    </edge>
+    <edge source="Ethnic Food" target="Specialty Food">
+      <data key="d2">175.0</data>
+    </edge>
+    <edge source="Lounges" target="Bars">
+      <data key="d2">186.0</data>
+    </edge>
+    <edge source="Lounges" target="Nightlife">
+      <data key="d2">186.0</data>
+    </edge>
+    <edge source="Lounges" target="Restaurants">
+      <data key="d2">176.0</data>
+    </edge>
+    <edge source="Salad" target="Restaurants">
+      <data key="d2">224.0</data>
+    </edge>
+    <edge source="Vegetarian" target="Restaurants">
+      <data key="d2">229.0</data>
+    </edge>
+    <edge source="Cafes" target="Food">
+      <data key="d2">204.0</data>
+    </edge>
+    <edge source="Cafes" target="Restaurants">
+      <data key="d2">619.0</data>
+    </edge>
+    <edge source="Bars" target="American (Traditional)">
+      <data key="d2">602.0</data>
+    </edge>
+    <edge source="Bars" target="Nightlife">
+      <data key="d2">1810.0</data>
+    </edge>
+    <edge source="Bars" target="Restaurants">
+      <data key="d2">1740.0</data>
+    </edge>
+    <edge source="Greek" target="Mediterranean">
+      <data key="d2">179.0</data>
+    </edge>
+    <edge source="Greek" target="Restaurants">
+      <data key="d2">334.0</data>
+    </edge>
+    <edge source="Food" target="Beer, Wine &amp; Spirits">
+      <data key="d2">402.0</data>
+    </edge>
+    <edge source="Food" target="Bagels">
+      <data key="d2">178.0</data>
+    </edge>
+    <edge source="Food" target="Convenience Stores">
+      <data key="d2">551.0</data>
+    </edge>
+    <edge source="Food" target="Restaurants">
+      <data key="d2">1523.0</data>
+    </edge>
+    <edge source="Food" target="Ice Cream &amp; Frozen Yogurt">
+      <data key="d2">833.0</data>
+    </edge>
+    <edge source="Food" target="Food Trucks">
+      <data key="d2">177.0</data>
+    </edge>
+    <edge source="Food" target="Delis">
+      <data key="d2">161.0</data>
+    </edge>
+    <edge source="Food" target="Specialty Food">
+      <data key="d2">900.0</data>
+    </edge>
+    <edge source="Nightlife" target="American (Traditional)">
+      <data key="d2">607.0</data>
+    </edge>
+    <edge source="Nightlife" target="Restaurants">
+      <data key="d2">1840.0</data>
+    </edge>
+    <edge source="Specialty Food" target="Restaurants">
+      <data key="d2">179.0</data>
+    </edge>
+    <edge source="Restaurants" target="Canadian (New)">
+      <data key="d2">182.0</data>
+    </edge>
+    <edge source="Restaurants" target="Steakhouses">
+      <data key="d2">538.0</data>
+    </edge>
+    <edge source="Restaurants" target="Mexican">
+      <data key="d2">2176.0</data>
+    </edge>
+    <edge source="Restaurants" target="American (Traditional)">
+      <data key="d2">2072.0</data>
+    </edge>
+    <edge source="Restaurants" target="Chinese">
+      <data key="d2">1388.0</data>
+    </edge>
+    <edge source="Restaurants" target="Burgers">
+      <data key="d2">1443.0</data>
+    </edge>
+    <edge source="Restaurants" target="Asian Fusion">
+      <data key="d2">416.0</data>
+    </edge>
+    <edge source="Restaurants" target="Mediterranean">
+      <data key="d2">458.0</data>
+    </edge>
+    <edge source="Restaurants" target="Japanese">
+      <data key="d2">714.0</data>
+    </edge>
+    <edge source="Restaurants" target="Delis">
+      <data key="d2">588.0</data>
+    </edge>
+    <edge source="Restaurants" target="Hot Dogs">
+      <data key="d2">222.0</data>
+    </edge>
+    <edge source="Restaurants" target="Tex-Mex">
+      <data key="d2">241.0</data>
+    </edge>
+    <edge source="Restaurants" target="Event Planning &amp; Services">
+      <data key="d2">166.0</data>
+    </edge>
+    <edge source="Mexican" target="Tex-Mex">
+      <data key="d2">197.0</data>
+    </edge>
+    <edge source="Burgers" target="American (Traditional)">
+      <data key="d2">231.0</data>
+    </edge>
+  </graph>
+</graphml>
